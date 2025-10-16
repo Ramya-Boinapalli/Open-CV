@@ -15,3 +15,5 @@ Efficient for real-time detection.
 Strengths: Fast, lightweight, works well for frontal face detection.
 
 Limitations: Less accurate with rotations, different angles, or occlusions.
+
+My Profile - www.linkedin.com/in/ramya-lucky-a27448212

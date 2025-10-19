@@ -1,4 +1,4 @@
-Haar Cascade (Short Description)
+OPENCV,Haar Cascade (Short Description)
 
 Haar Cascade is a machine learning object detection method used to detect objects in images or video, most commonly faces.
 
@@ -16,4 +16,6 @@ Strengths: Fast, lightweight, works well for frontal face detection.
 
 Limitations: Less accurate with rotations, different angles, or occlusions.
 
-My Profile - www.linkedin.com/in/ramya-lucky-a27448212
+My Profile - www.linkedin.com/in/ramya-lucky-a27448212 (opencv)
+
+my_Prfile-
